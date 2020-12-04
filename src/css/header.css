@@ -2,7 +2,6 @@
     display: grid;
     border: solid;
     border-width: 1px;
-    height: 20vh;
     background-color: #08090D;
     grid-area: hd;
     grid-template: "hdtitle hdtab hdtab hdtab";
